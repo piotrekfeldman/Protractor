@@ -1,0 +1,1 @@
+browser.actions.sendKeys(protractor.Key.ENTER).perform();
